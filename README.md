@@ -5,6 +5,8 @@
   ## Description
   This node.js application was built using Express.js, MySQL, and Sequelize and secured with dotenv to house login criteria. This command line application utilizes functional Express.js API calls to connect to a database using Sequelize. Instructions to install dependencies, enter login criteria, run, and test this application can be found in the respective tags below as well as a demonstration video.
 
+https://drive.google.com/file/d/1zhJh6JxvsbBJBr6-hLlROysb-EmKY8_l/view
+
 [![E-commerce Back End](https://res.cloudinary.com/marcomontalbano/image/upload/v1665588320/video_to_markdown/images/google-drive--1zhJh6JxvsbBJBr6-hLlROysb-EmKY8_l-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1zhJh6JxvsbBJBr6-hLlROysb-EmKY8_l/preview "E-commerce Back End")
 
   ## Table of Contents
